@@ -1,63 +1,308 @@
-#Hi 👋
+# Hello! 👋
 
-👋 I'm a Senior Full-Stack Software Engineer with over 7 years of experience in building scalable, performant, and user-centric web applications. My journey began with C++, C#, Python, JavaScript, Golang and has since expanded to encompass a diverse technology stack, from the intricacies of backend development in Django, Gin, Express, Flask, FastAPI, .NET to crafting intuitive frontend interfaces with React and Vue.
+## 😎 Who Am I?
 
-🚀 My expertise includes:
+Seasoned Senior Software Engineer with rich experience, specializing in AI and Full-stack development. Expert in delivering innovative solutions and integrating advanced AI technologies to enhance application functionality and user experience. Proven track record in managing hybrid and remote work environments.
 
-<b>Backend Development:</b> Proficient in designing RESTful APIs, integrating with databases, and implementing robust authentication & authorization mechanisms.<br>
-<b>Frontend Development:</b> Skilled in developing responsive UI, optimizing performance, and ensuring seamless user experiences.<br>
-<b>DevOps & CI/CD:</b> Experienced in automating deployment processes, scaling applications, and ensuring high availability using tools like Docker, K8s, Jenkins, CircleCI.<br>
-<b>Architectural Design:</b> Proficient in microservices architecture, design patterns, and crafting scalable & maintainable codebases.
+## 🚀 About Me
 
-💡 I'm a lifelong learner who's always eager to explore the latest in tech. Whether it's delving into a new framework, contributing to open-source projects, or collaborating in diverse teams, I approach challenges with an analytical mindset and a penchant for problem-solving.
+- 🏆 **Generative AI:** LLMs, Image / Video Generation, Image / Video Editing, Voice Generation
+- 🏆 **LLMs:** Llama, GPT, Gemini, Mistral, BERT, Claude
+- 🏆 **LLM Tools:** LangChain, LlamaIndex, LangWatch, LangGraph, LangSmith, LangFlow
+- 🏆 **Front-end Development:** Next.js, React.js ,React Native, Flutter, FlutterFlow, Angular.js, Vue.js, Javascript(ES+6), TypeScript, HTML5, CSS3, JQuery.
+- 🏆 **CSS Framework**: ShadCN, TailwindCSS, MaterialUI, ChakraUI, SCSS, AntDesign, Bootstrap
+- 🏆 **Back-end Development**: Node.js, Express.js, PHP, Laravel, Python, FastAPI, Django, Flask
+- 🏆 **API Technology**: Restful API, Socket API, GraphQL
+- 🏆 **AI Integration**: AI Chatbot, GPT, Generative AI Art, DALL-E, RAG System.
+- 🏆 **Database Management**: MySQL, MongoDB, PostgreSQL, OracleDB
+- 🏆 **Version Control**: Git, GitHub, GitLab, SVN
+- 🏆 **Deployment and Cloud Technologies**: AWS, GCP, Azure, Heroku
+- 🏆 **Testing and Debugging**: Jest, Mocha, Chai, Postman
+- 🏆 **UI/UX Design Principles**
 
-🤝 Collaboration is at the heart of what I do. I believe in building strong team dynamics, mentoring budding developers, and driving projects to success through clear communication and agile methodologies.
+💬 **Ask me about:** Web, AI, ML, Computer Vision, NLP, DevOps, MLOps, and so on.
 
-🔍 Currently diving deep into Serverless architectures, GraphQL, ChatGPT and AI Agent development. Always open to discussing tech, potential collaborations, or new opportunities. Let's connect and build the future!
+## 🛠️ Skills
+<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=html" width="43" height="43" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=css" width="43" height="43" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=materialui" width="43" height="43" alt="MaterialUI" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="43" height="43" alt="Tailwind" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="45" height="55" />
+      <br>Sass
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="43" height="43" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=babel" width="43" height="43" alt="Babel" />
+      <br>Babel
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=threejs" width="43" height="43" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=solidity" width="43" height="43" alt="Solidity" />
+      <br>Solidity
+    </td>
+  </tr>
 
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=3bac3a)
+  <tr>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=jquery" width="43" height="43" alt="jQuery" />
+      <br>jQuery
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="55" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="55" />
+      <br>Redux
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="Gatsby" width="45" height="55" />
+      <br>Gatsby
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=vue" width="43" height="43" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=angular" width="43" height="43" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=express" width="43" height="43" alt="Express" />
+      <br>Express.js
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="43" height="43" alt="Nest" />
+      <br>Nest
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="43" height="43" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=apollo" width="43" height="43" alt="Apollo" />
+      <br>Apollo
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RESTful API" width="45" height="55" />
+      <br>RESTful API
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="45" height="55" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="43" height="43" />
+      <br>Flask
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="55" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="55" />
+      <br>Django
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=laravel" width="43" height="43" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=rust" width="43" height="43" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=go" width="43" height="43" alt="Golang" />
+      <br>Golang
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=actix" width="43" height="43" alt="Actix" />
+      <br>Actix
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=gcp" width="43" height="43" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="45" height="55" />
+      <br>AWS
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=azure" width="43" height="43" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=kafka" width="43" height="43" alt="Kafka" />
+      <br>Kafka
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=cypress" width="43" height="43" alt="Cypress" />
+      <br>Cypress
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=electron" width="43" height="43" alt="Electron" />
+      <br>Electron
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=firebase" width="43" height="43" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="43" height="43" alt="RabbitMQ" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="43" height="43" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postgres" width="43" height="43" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="45" height="55" />
+      <br>Redis
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="43" height="43" alt="SQLite" />
+      <br>SQLite
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=flutter" width="43" height="43" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="43" height="43" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="43" height="43" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="45" height="55" />
+      <br>C#
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="55" />
+      <br>C++
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="55" />
+      <br>GitHub
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/Pine%20Script-orange" width="43" height="43" alt="Pine Script" />
+      <br>Pine Script
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/VoIP-orange" width="43" height="43" alt="VoIP" />
+      <br>VoIP
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/FreeSWITCH-blue" width="43" height="43" alt="FreeSWITCH" />
+      <br>FreeSWITCH
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/Video%20Streaming-green" width="43" height="43" alt="Video Streaming" />
+      <br>Video Streaming
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/ChatGPT-yellow" width="43" height="43" alt="ChatGPT" />
+      <br>ChatGPT
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/OpenAI-lightgrey" width="43" height="43" alt="OpenAI" />
+      <br>OpenAI
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=supabase" width="43" height="43" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="80">
+      <img src="https://github.com/hi-tech-AI/hi-tech-AI/raw/main/nlp-logo.jpg" width="43" height="43" alt="Supabase" />
+      <br>NLP
+    </td>
+    <td align="center" width="80">
+      <img src="https://github.com/hi-tech-AI/hi-tech-AI/raw/main/llm-logo.jfif" width="43" height="43" alt="Supabase" />
+      <br>LLM
+    </td>
+    <td colspan="2"></td> <!-- Empty space to maintain row structure -->
+  </tr>
+</table>
+</p>
 
----
-
----
+##
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://html.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacredAST&theme=gotham&layout=compact" width="50%"/> 
+</p>
+
+
+<p align="center">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=sacredAST&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sacredAST&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
